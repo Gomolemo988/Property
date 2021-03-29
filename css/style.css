@@ -1,10 +1,4 @@
-/* 
 
-Page One Template
-
-https://templatemo.com/tm-504-page-one
-
-*/
 
 body {
 	font-size: 21px;	
@@ -57,8 +51,9 @@ p {
 }
 
 .tm-site-title { 
-	border: 2px solid #000000;
-	color: #000;
+
+	color: #b6b4b4;
+	background-color: rgba(255, 255, 255, 0.932);
 	display: inline-block;
 	font-size: 3rem; 
 	padding: 30px 40px;
